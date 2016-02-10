@@ -25,7 +25,7 @@ angular
         template: '<div class="tab tab4"><p>Bocconcini hard cheese stinking bishop. Cheesecake gouda cheese and biscuits red leicester airedale cheeseburger say cheese pecorino. St. agur blue cheese cheese triangles emmental pecorino monterey jack cut the cheese emmental cheese slices. Manchego cow cheeseburger airedale who moved my cheese cottage cheese airedale feta. Parmesan.</p></div>'
       });
 
-    $locationProvider.html5Mode(true);
+    $locationProvider.html5Mode(false);
 
   })
 
