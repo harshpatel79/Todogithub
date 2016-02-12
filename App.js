@@ -26,6 +26,7 @@ angular
       });
 
     $locationProvider.html5Mode(true);
+    console.log("crazy");
 
   })
 
